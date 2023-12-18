@@ -1,0 +1,11 @@
+{
+    "challenge_edition": {
+        "2022": "cee8ea0f-fc6f-4d98-920f-a68f6f3ecf0a",
+        "2023": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+        "2024": "afb68460-7128-4ee0-97cc-0020851bb080"
+    },
+    "challenge_category": {
+        "Interactive dataviz": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+        "Static dataviz": "b942bf5c-5bfe-4c9c-92da-239296916bf6"
+    }
+}
